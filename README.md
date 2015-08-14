@@ -1,6 +1,8 @@
 # hello-world
 This is my first Repo
 
-##Python
+## Python
 
 Im trying to learn data science with the help of python
+
+### 1st update on my computer
